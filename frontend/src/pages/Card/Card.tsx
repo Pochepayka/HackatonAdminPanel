@@ -180,7 +180,7 @@ const Card: React.FC = () => {
         <NeedFucts adminPanel={adminPanel} coordinates={coord} />
 
         <DescriptionOfCard adminPanel={adminPanel} description={description} setDescription={setDescription} OnSumbitSliderFiles={OnSumbitTextAreaFiles}  />
-        
+        git
         
         </div>
         {adminPanel && role === "admin" ? 
